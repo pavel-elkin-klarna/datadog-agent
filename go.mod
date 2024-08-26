@@ -139,7 +139,7 @@ require (
 	code.cloudfoundry.org/garden v0.0.0-20210208153517-580cadd489d2
 	code.cloudfoundry.org/lager v2.0.0+incompatible
 	github.com/CycloneDX/cyclonedx-go v0.8.0
-	github.com/DataDog/appsec-internal-go v1.6.0
+	github.com/DataDog/appsec-internal-go v1.7.0
 	github.com/DataDog/datadog-agent/pkg/gohai v0.56.0-rc.3
 	github.com/DataDog/datadog-agent/pkg/obfuscate v0.56.0-rc.3
 	github.com/DataDog/datadog-agent/pkg/remoteconfig/state v0.56.0-rc.3
@@ -268,7 +268,7 @@ require (
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635
 	github.com/tinylib/msgp v1.1.9
 	github.com/twmb/murmur3 v1.1.8
-	github.com/uptrace/bun v1.1.14
+	github.com/uptrace/bun v1.1.17
 	github.com/uptrace/bun/dialect/pgdialect v1.1.14
 	github.com/uptrace/bun/driver/pgdriver v1.1.14
 	github.com/urfave/negroni v1.0.0
@@ -311,7 +311,7 @@ require (
 	google.golang.org/grpc v1.65.0
 	google.golang.org/grpc/examples v0.0.0-20221020162917-9127159caf5a
 	google.golang.org/protobuf v1.34.2
-	gopkg.in/DataDog/dd-trace-go.v1 v1.65.1
+	gopkg.in/DataDog/dd-trace-go.v1 v1.67.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 	gopkg.in/zorkian/go-datadog-api.v2 v2.30.0
@@ -835,7 +835,7 @@ require (
 	github.com/grafana/regexp v0.0.0-20221122212121-6b5c0a4cb7fd // indirect
 	github.com/hashicorp/cronexpr v1.1.2 // indirect
 	github.com/hashicorp/go-getter v1.7.5 // indirect
-	github.com/hashicorp/go-retryablehttp v0.7.5 // indirect
+	github.com/hashicorp/go-retryablehttp v0.7.7 // indirect
 	github.com/hashicorp/go-safetemp v1.0.0 // indirect
 	github.com/hashicorp/go-secure-stdlib/parseutil v0.1.7 // indirect
 	github.com/hashicorp/go-secure-stdlib/strutil v0.1.2 // indirect
@@ -927,7 +927,7 @@ require (
 	github.com/prometheus/common/sigv4 v0.1.0 // indirect
 	github.com/prometheus/prometheus v2.5.0+incompatible // indirect
 	github.com/rogpeppe/go-internal v1.12.0 // indirect
-	github.com/rs/zerolog v1.29.1 // indirect
+	github.com/rs/zerolog v1.31.0 // indirect
 	github.com/ryanuber/go-glob v1.0.0 // indirect
 	github.com/sagikazarmark/locafero v0.4.0 // indirect
 	github.com/sagikazarmark/slog-shim v0.1.0 // indirect
