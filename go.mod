@@ -154,7 +154,7 @@ require (
 	github.com/DataDog/ebpf-manager v0.7.1
 	github.com/DataDog/gopsutil v1.2.2
 	github.com/DataDog/nikos v1.12.4
-	github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/attributes v0.18.0
+	github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/attributes v0.20.0
 	github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/metrics v0.18.0
 	github.com/DataDog/opentelemetry-mapping-go/pkg/quantile v0.18.0
 	github.com/DataDog/sketches-go v1.4.6
