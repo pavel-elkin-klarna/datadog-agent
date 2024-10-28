@@ -41,7 +41,7 @@ require (
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/docker/cli v24.0.7+incompatible
 	github.com/docker/docker v25.0.6+incompatible
-	github.com/fatih/color v1.16.0
+	github.com/fatih/color v1.18.0
 	github.com/google/uuid v1.6.0
 	github.com/kr/pretty v0.3.1
 	github.com/mitchellh/mapstructure v1.5.0
@@ -56,7 +56,7 @@ require (
 	github.com/stretchr/testify v1.9.0
 	github.com/xeipuuv/gojsonschema v1.2.0
 	golang.org/x/crypto v0.25.0
-	golang.org/x/sys v0.23.0
+	golang.org/x/sys v0.25.0
 	golang.org/x/term v0.22.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/zorkian/go-datadog-api.v2 v2.30.0
