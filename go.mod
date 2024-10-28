@@ -268,9 +268,9 @@ require (
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635
 	github.com/tinylib/msgp v1.1.9
 	github.com/twmb/murmur3 v1.1.8
-	github.com/uptrace/bun v1.1.14
-	github.com/uptrace/bun/dialect/pgdialect v1.1.14
-	github.com/uptrace/bun/driver/pgdriver v1.1.14
+	github.com/uptrace/bun v1.2.5
+	github.com/uptrace/bun/dialect/pgdialect v1.2.5
+	github.com/uptrace/bun/driver/pgdriver v1.2.5
 	github.com/urfave/negroni v1.0.0
 	github.com/vishvananda/netlink v1.2.1-beta.2.0.20230807190133-6afddb37c1f0
 	github.com/vishvananda/netns v0.0.4
@@ -302,8 +302,8 @@ require (
 	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56
 	golang.org/x/net v0.27.0
 	golang.org/x/sync v0.8.0
-	golang.org/x/sys v0.23.0
-	golang.org/x/text v0.16.0
+	golang.org/x/sys v0.26.0
+	golang.org/x/text v0.19.0
 	golang.org/x/time v0.6.0
 	golang.org/x/tools v0.23.0
 	golang.org/x/xerrors v0.0.0-20240716161551-93cc26a95ae9
@@ -565,10 +565,10 @@ require (
 	go.opentelemetry.io/otel/sdk/metric v1.27.0 // indirect
 	go.opentelemetry.io/otel/trace v1.27.0
 	go.opentelemetry.io/proto/otlp v1.2.0 // indirect
-	golang.org/x/crypto v0.25.0 // indirect
+	golang.org/x/crypto v0.28.0 // indirect
 	golang.org/x/mod v0.20.0
 	golang.org/x/oauth2 v0.21.0 // indirect
-	golang.org/x/term v0.22.0 // indirect
+	golang.org/x/term v0.25.0 // indirect
 	gonum.org/v1/gonum v0.15.0 // indirect
 	google.golang.org/api v0.185.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
@@ -577,7 +577,7 @@ require (
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
 	k8s.io/component-base v0.29.3
-	mellium.im/sasl v0.3.1 // indirect
+	mellium.im/sasl v0.3.2 // indirect
 	modernc.org/cc/v3 v3.41.0 // indirect
 	modernc.org/ccgo/v3 v3.16.15 // indirect
 	modernc.org/libc v1.41.0 // indirect
@@ -926,8 +926,9 @@ require (
 	github.com/prometheus-community/windows_exporter v0.25.1 // indirect
 	github.com/prometheus/common/sigv4 v0.1.0 // indirect
 	github.com/prometheus/prometheus v2.5.0+incompatible // indirect
+	github.com/puzpuzpuz/xsync/v3 v3.4.0 // indirect
 	github.com/rogpeppe/go-internal v1.12.0 // indirect
-	github.com/rs/zerolog v1.29.1 // indirect
+	github.com/rs/zerolog v1.33.0 // indirect
 	github.com/ryanuber/go-glob v1.0.0 // indirect
 	github.com/sagikazarmark/locafero v0.4.0 // indirect
 	github.com/sagikazarmark/slog-shim v0.1.0 // indirect
