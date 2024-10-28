@@ -282,7 +282,7 @@ require (
 	go.mongodb.org/mongo-driver v1.15.1
 	go.opentelemetry.io/collector v0.104.0 // indirect
 	go.opentelemetry.io/collector/component v0.104.0
-	go.opentelemetry.io/collector/confmap v0.104.0
+	go.opentelemetry.io/collector/confmap v1.18.0
 	go.opentelemetry.io/collector/exporter v0.104.0
 	go.opentelemetry.io/collector/exporter/loggingexporter v0.104.0
 	go.opentelemetry.io/collector/exporter/otlpexporter v0.104.0
@@ -726,7 +726,7 @@ require (
 	go.opentelemetry.io/collector/confmap/provider/envprovider v0.104.0
 	go.opentelemetry.io/collector/confmap/provider/fileprovider v0.104.0
 	go.opentelemetry.io/collector/confmap/provider/httpprovider v0.104.0
-	go.opentelemetry.io/collector/confmap/provider/httpsprovider v0.104.0
+	go.opentelemetry.io/collector/confmap/provider/httpsprovider v1.18.0
 	go.opentelemetry.io/collector/confmap/provider/yamlprovider v0.104.0
 	go.opentelemetry.io/collector/extension v0.104.0
 	go.opentelemetry.io/collector/otelcol v0.104.0
@@ -816,7 +816,7 @@ require (
 	github.com/go-openapi/spec v0.20.14 // indirect
 	github.com/go-resty/resty/v2 v2.12.0 // indirect
 	github.com/go-test/deep v1.1.0 // indirect
-	github.com/go-viper/mapstructure/v2 v2.0.0-alpha.1 // indirect
+	github.com/go-viper/mapstructure/v2 v2.2.1 // indirect
 	github.com/go-zookeeper/zk v1.0.3 // indirect
 	github.com/goccy/go-json v0.10.3 // indirect
 	github.com/goccy/go-yaml v1.11.0 // indirect
